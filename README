@@ -1,6 +1,5 @@
 1) split.py: 
 	run: python -m split ‘file.txt’ ‘file.splitted’
-		used the Professor’s code as a base and made my way up
 		Result: results as expected
 2) Tokenize.py:
 	run: python -m Tokenize ‘file.splitted’ ‘file.tokenized’
