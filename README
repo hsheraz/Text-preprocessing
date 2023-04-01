@@ -8,5 +8,4 @@
 		Result: The punctuations are a bit off does not pick up things like this i.e (text ) or ’89 otherwise the results are as expected
 3) pos-tag.py:
 	run: python-m ‘file.tokenized’ ‘file.tagged’
-	Used the Professor’s code as the base and made my way up
 	Results: I believe the results are as expected
