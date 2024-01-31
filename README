@@ -2,8 +2,7 @@
 	run: python -m split ‘file.txt’ ‘file.splitted’
 		Result: results as expected
 2) Tokenize.py:
-	run: python -m Tokenize ‘file.splitted’ ‘file.tokenized’
-		use the Professor’s code as a base and made my way up
+	run: python -m Tokenize ‘file.splitted’ ‘file.tokenized
 		this file tokenizes values and does post-processing for Hyphen, apostrophe and punctuation, it also has some processing for token count
 		Result: The punctuations are a bit off does not pick up things like this i.e (text ) or ’89 otherwise the results are as expected
 3) pos-tag.py:
