@@ -1,5 +1,5 @@
 """
-    Tokenize: using the Professor's code as the skeleton, this code here tokenizes words that come in as a text file using regex.
+    Tokenize: this code here tokenizes words that come in as a text file using regex.
     The return of the fucntion is a list of tokenized sentences. It uses nltk to divide the text into sentences, which then is used
     as words to tokenize and then appended together at the end as a list. It also does some post processing for
 """
